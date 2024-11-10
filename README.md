@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm MANIKANDAN.G</h1>
 <h3 align="center">A passionate Android developer from India</h3>
+<img align="right" alt ="coding" width="400" src="https://camo.githubusercontent.com/171cb58b3d49a5d8c2b1c52a05b17c03388d553180e188c7cb4095ba45acac16/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f343830302f312a5a53566d57476363317765454e6230536861775778772e676966">
 
 - 🌱 I’m currently learning **BE.computer science and engnieering**
 
