@@ -5,8 +5,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manikandan580&label=Profile%20views&color=0e75b6&style=flat" alt="manikandan580" /> </p>
 
 - 🌱 I’m currently learning **BE.computer science and engnieering**
+- 💻 I'M learning **Android Application Development**
 
-- 👨‍💻 All of my projects are available at [https://manikandan-portfolio-hazel.vercel.app/](https://manikandan-portfolio-hazel.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/manikandan580]
+- 🤵🏻‍♀ My Portfolio [https://manikandan-portfolio-hazel.vercel.app/](https://manikandan-portfolio-hazel.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
