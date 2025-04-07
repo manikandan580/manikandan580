@@ -8,7 +8,7 @@
 - 💻 I'M learning **Android Application Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/manikandan580]
-- 🤵🏻‍♀ My Portfolio [https://manikandan-portfolio-hazel.vercel.app/](https://manikandan-portfolio-hazel.vercel.app/)
+- 🤵🏻‍♀ My Portfolio [https://manikandan-portfolio-ovy7.vercel.app/](https://manikandan-portfolio-ovy7.vercel.app/)
 - 😎 I Am Unpredictable
 
 <h3 align="left">Connect with me:</h3>
